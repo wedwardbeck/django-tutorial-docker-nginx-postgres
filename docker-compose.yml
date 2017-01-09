@@ -20,7 +20,6 @@ django:
     links:
         - postgres
 
-
 # This defines a service for the Postgres database
 postgres:
     image: postgres:9.3
